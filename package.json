@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "web: node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
